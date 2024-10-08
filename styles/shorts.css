@@ -1,0 +1,41 @@
+.shorts-headline-icon{
+  width: 28px;
+}
+.shorts-headline-flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 45px;
+  column-gap: 10px;
+  margin-left: 4px;
+  margin-bottom: 28px;
+}
+.shorts-headline{
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.shorts-flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.shorts-div{
+  height: 480px;
+  width: 222px;
+  
+}
+.shorts-img{
+  height: 394px;
+  border-radius: 9px;
+}
+.shorts-caption{
+  font-weight: 500;
+  font-size: 17px;
+  margin-top: 6px;
+}
+.shorts-views{
+  color: rgb(96, 96, 96);
+  margin-top: 7px;
+  font-size: 14px;
+}

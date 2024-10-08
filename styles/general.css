@@ -1,0 +1,17 @@
+
+body{
+  font-family: Roboto, Arial, sans-serif;
+  padding-top: 144px;
+  padding-left: 98px;
+  padding-right: 30px;
+  height: 2000px;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

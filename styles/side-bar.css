@@ -1,0 +1,32 @@
+.side-bar{
+  position: fixed;
+  top: 65px;
+  bottom: 0;
+  width: 65px;
+  
+  left: 0;
+}
+.sidebar-btn{
+  width: 100%;
+  height: 75px;
+  border-radius: 9px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+.sidebar-btn:hover{
+  background-color: #e9eaea;
+  cursor: pointer;
+}
+.svg-side-btn{
+  width: 24px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 7px;
+}
+.sidebtn-text{
+  font-size: 10px;
+}
